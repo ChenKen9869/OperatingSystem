@@ -1,3 +1,3 @@
 # OperatingSystem
-xv6  Mit  
-nachos  UC-Berkeley
+xv6
+nachos
